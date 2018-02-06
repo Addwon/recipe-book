@@ -1,0 +1,21 @@
+.headContainer-fluid{
+    width:75%;
+}
+
+.headContainer-fluid h1{
+    font-family: 'Pacifico', cursive;
+    width:100%;
+}
+.headContainer-fluid img{
+    width:10%;
+}
+.bodyContainer-fluid img{
+    width:75%;
+}
+h1,h2{
+    font-style: oblique;
+    font-family: 'Indie Flower', cursive;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+}
