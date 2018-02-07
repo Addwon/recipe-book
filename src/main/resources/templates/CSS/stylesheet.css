@@ -5,7 +5,9 @@
 .headContainer-fluid h1{
     font-family: 'Pacifico', cursive;
     width:100%;
+
 }
+
 .headContainer-fluid img{
     width:10%;
 }
@@ -18,4 +20,34 @@ h1,h2{
 }
 p{
     font-family: 'Indie Flower', cursive;
+}
+.navbar-inverse {
+    background-color: #f8e2ab;
+    border-color: #e6e735;
+    font-family: 'Indie Flower', cursive;
+    font-size: large;
+    line-height: 1.3em;
+
+/*flex-start | flex-end | center | space-between | space-around | space-evenly;*/
+}
+.navbar-header{
+    justify-content:space-between;
+}
+.container-fluid{
+
+}
+/*
+.thumbnail img{
+    width:50%;
+}
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.thumbnail {
+    width:50%;
+}*/
+.thumbnail img {
+    height:250px;
+    width:100%;
 }
